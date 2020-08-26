@@ -1,4 +1,4 @@
-# chalinda.artisandigital.xyz
+# cha.artisandigital.xyz
 
     185.199.108.153
     185.199.109.153
